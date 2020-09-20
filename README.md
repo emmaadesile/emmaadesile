@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Emmanuel Adesile
 
-[Website](https://eadesile.com) | [Blog](https://dev.to/emmaadesile) | [Twitter](https://twitter.com/emma_adesile) | [Linkedin](https://linkedin.com/in/emmaadesile) | [Dribbble](https://dribbble.com/emmaadesile)
+[Blog](https://dev.to/emmaadesile) | [Twitter](https://twitter.com/emma_adesile) | [Linkedin](https://linkedin.com/in/emmaadesile) | [Dribbble](https://dribbble.com/emmaadesile)
 
 I'm a Fullstack Software Engineer and UI designer currently based in Lagos, Nigeria. I work across the stack but I lean more towards the frontend because I love design (😎), and building aesthetically-pleasing, sleek and performant web and mobile apps. I've tinkered with Python and Java but JavaScript is always my goto language. I think code should be self-explanatory but it doesn't hurt to add comments. (😉)
 
