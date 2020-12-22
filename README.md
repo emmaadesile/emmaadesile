@@ -7,6 +7,6 @@ I'm a Frontend Software Engineer and UI designer currently based in Lagos, Niger
 I currently work as a freelance frontend engineer but I'm open to fulltime onsite/remote roles.
 
 - 🔭 I’m currently working on a super secret side project 🤞
-- 🌱 I’m currently learning Swift(UI)
+- 🌱 I’m currently learning Greensoch (gsaap)
 - 💬 Ask me about JavaScript and Figma
 - 📫 How to reach me: [Emmanuel](mailto:emma2adesile@gmail.com)
