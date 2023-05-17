@@ -6,7 +6,5 @@ I'm a Software Engineer currently based in Lagos, Nigeria. I work across the sta
 
 I currently work as a freelance frontend engineer but I'm open to fulltime onsite/remote roles.
 
-- 🔭 I’m currently working on a super secret side project 🤞
-- 🌱 I’m currently learning Blockchain
-- 💬 Ask me about JavaScript and React
+- 💬 Ask me about JavaScript, Typescript and React
 - 📫 How to reach me: [Emmanuel](mailto:emma2adesile@gmail.com)
